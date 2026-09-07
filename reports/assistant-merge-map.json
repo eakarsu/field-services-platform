@@ -1,0 +1,334 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "dashboard-assistant"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "dashboard-assistant",
+        "title": "AI draft workspace",
+        "originalPath": "/features/dashboard-assistant"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "supplies",
+      "insights",
+      "material-waste-prediction",
+      "equipment-maintenance-predict",
+      "seasonal-demand-forecasting",
+      "batch10-gap-no-pre-move-questionnaire-deep-analysis",
+      "batch10-gap-no-predictive-demand-pre-positioning-of"
+    ],
+    "ai": true,
+    "representativeId": "supplies",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "supplies",
+        "title": "Supply Forecasting",
+        "originalPath": "/features/supplies"
+      },
+      {
+        "id": "insights",
+        "title": "Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "material-waste-prediction",
+        "title": "material waste prediction",
+        "originalPath": "/features/material-waste-prediction"
+      },
+      {
+        "id": "equipment-maintenance-predict",
+        "title": "AI Equipment Maintenance Predict",
+        "originalPath": "/features/equipment-maintenance-predict"
+      },
+      {
+        "id": "seasonal-demand-forecasting",
+        "title": "seasonal demand forecasting",
+        "originalPath": "/features/seasonal-demand-forecasting"
+      },
+      {
+        "id": "batch10-gap-no-pre-move-questionnaire-deep-analysis",
+        "title": "pre move questionnaire deep analysis",
+        "originalPath": "/features/batch10-gap-no-pre-move-questionnaire-deep-analysis"
+      },
+      {
+        "id": "batch10-gap-no-predictive-demand-pre-positioning-of",
+        "title": "predictive demand pre positioning of",
+        "originalPath": "/features/batch10-gap-no-predictive-demand-pre-positioning-of"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "code-compliance"
+    ],
+    "ai": true,
+    "representativeId": "code-compliance",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "code-compliance",
+        "title": "Building Code Compliance",
+        "originalPath": "/features/code-compliance"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "history",
+      "aihistory-js-stub-needs-real-implementation"
+    ],
+    "ai": true,
+    "representativeId": "history",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "history",
+        "title": "History",
+        "originalPath": "/features/history"
+      },
+      {
+        "id": "aihistory-js-stub-needs-real-implementation",
+        "title": "aihistory js stub needs real implementation",
+        "originalPath": "/features/aihistory-js-stub-needs-real-implementation"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "material-estimate",
+      "project-timeline",
+      "quote-estimate",
+      "ai-job-estimator",
+      "reviews",
+      "quote-estimator",
+      "chemical-advisor",
+      "quote-generator",
+      "dashboard-ai-quote-generator",
+      "dashboard-follow-ups",
+      "dashboard-ai",
+      "claims",
+      "batch10-cf-vision-based-damage-assessment-claim-photos",
+      "batch10-gap-no-vision-based-damage-assessment-from",
+      "servicecrewai-mobile"
+    ],
+    "ai": true,
+    "representativeId": "material-estimate",
+    "description": "One assistant for 15 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "material-estimate",
+        "title": "Material estimate",
+        "originalPath": "/features/material-estimate"
+      },
+      {
+        "id": "project-timeline",
+        "title": "Project timeline",
+        "originalPath": "/features/project-timeline"
+      },
+      {
+        "id": "quote-estimate",
+        "title": "Quote estimate",
+        "originalPath": "/features/quote-estimate"
+      },
+      {
+        "id": "ai-job-estimator",
+        "title": "ai job estimator",
+        "originalPath": "/features/ai-job-estimator"
+      },
+      {
+        "id": "reviews",
+        "title": "Reviews",
+        "originalPath": "/features/reviews"
+      },
+      {
+        "id": "quote-estimator",
+        "title": "AI Quote Estimator",
+        "originalPath": "/features/quote-estimator"
+      },
+      {
+        "id": "chemical-advisor",
+        "title": "AI Chemical Advisor",
+        "originalPath": "/features/chemical-advisor"
+      },
+      {
+        "id": "quote-generator",
+        "title": "AI Quote Generator",
+        "originalPath": "/features/quote-generator"
+      },
+      {
+        "id": "dashboard-ai-quote-generator",
+        "title": "Quote Generator",
+        "originalPath": "/features/dashboard-ai-quote-generator"
+      },
+      {
+        "id": "dashboard-follow-ups",
+        "title": "Follow-up Assistant",
+        "originalPath": "/features/dashboard-follow-ups"
+      },
+      {
+        "id": "dashboard-ai",
+        "title": "AI Features",
+        "originalPath": "/features/dashboard-ai"
+      },
+      {
+        "id": "claims",
+        "title": "Claims",
+        "originalPath": "/features/claims"
+      },
+      {
+        "id": "batch10-cf-vision-based-damage-assessment-claim-photos",
+        "title": "vision based damage assessment claim photos",
+        "originalPath": "/features/batch10-cf-vision-based-damage-assessment-claim-photos"
+      },
+      {
+        "id": "batch10-gap-no-vision-based-damage-assessment-from",
+        "title": "vision based damage assessment from",
+        "originalPath": "/features/batch10-gap-no-vision-based-damage-assessment-from"
+      },
+      {
+        "id": "servicecrewai-mobile",
+        "title": "Servicecrewai mobile work",
+        "originalPath": "/features/servicecrewai-mobile"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "schedule-optimize",
+      "jobs",
+      "weather-scheduler",
+      "route-optimizer",
+      "weather-schedule"
+    ],
+    "ai": true,
+    "representativeId": "schedule-optimize",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "schedule-optimize",
+        "title": "Schedule optimize",
+        "originalPath": "/features/schedule-optimize"
+      },
+      {
+        "id": "jobs",
+        "title": "Job Scheduling",
+        "originalPath": "/features/jobs"
+      },
+      {
+        "id": "weather-scheduler",
+        "title": "AI Weather Scheduler",
+        "originalPath": "/features/weather-scheduler"
+      },
+      {
+        "id": "route-optimizer",
+        "title": "AI Route Optimizer",
+        "originalPath": "/features/route-optimizer"
+      },
+      {
+        "id": "weather-schedule",
+        "title": "AI Weather Schedule",
+        "originalPath": "/features/weather-schedule"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "marketing-generator",
+      "upsell-advisor",
+      "customer-churn-predict"
+    ],
+    "ai": true,
+    "representativeId": "marketing-generator",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "marketing-generator",
+        "title": "AI Marketing Generator",
+        "originalPath": "/features/marketing-generator"
+      },
+      {
+        "id": "upsell-advisor",
+        "title": "AI Upsell Advisor",
+        "originalPath": "/features/upsell-advisor"
+      },
+      {
+        "id": "customer-churn-predict",
+        "title": "AI Customer Churn Predict",
+        "originalPath": "/features/customer-churn-predict"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "batch10-gap-no-market-rate-pricing-optimizer"
+    ],
+    "ai": true,
+    "representativeId": "batch10-gap-no-market-rate-pricing-optimizer",
+    "description": "One assistant for 1 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "batch10-gap-no-market-rate-pricing-optimizer",
+        "title": "market rate pricing optimizer",
+        "originalPath": "/features/batch10-gap-no-market-rate-pricing-optimizer"
+      }
+    ]
+  }
+]

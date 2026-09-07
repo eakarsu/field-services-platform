@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AICommercialCleaningOperations",
+    "name": "Commercial cleaning operations",
+    "sourceProject": "AICommercialCleaningOperations",
+    "services": []
+  },
+  {
+    "id": "AIPlumbingElectricalHVACEstimator",
+    "name": "Plumbing electrical hvacestimator",
+    "sourceProject": "AIPlumbingElectricalHVACEstimator",
+    "services": []
+  },
+  {
+    "id": "AIPressureWashingExteriorCleaning",
+    "name": "Pressure washing exterior cleaning",
+    "sourceProject": "AIPressureWashingExteriorCleaning",
+    "services": []
+  },
+  {
+    "id": "homeservices",
+    "name": "Homeservices",
+    "sourceProject": "homeservices",
+    "services": []
+  },
+  {
+    "id": "laundryServices",
+    "name": "Laundry services",
+    "sourceProject": "laundryServices",
+    "services": []
+  },
+  {
+    "id": "localServiceDirectory",
+    "name": "Local service directory",
+    "sourceProject": "localServiceDirectory",
+    "services": []
+  },
+  {
+    "id": "movingCompany",
+    "name": "Moving company",
+    "sourceProject": "movingCompany",
+    "services": []
+  },
+  {
+    "id": "pestControl",
+    "name": "Pest control",
+    "sourceProject": "pestControl",
+    "services": []
+  },
+  {
+    "id": "servicecrewai-mobile",
+    "name": "Servicecrewai mobile",
+    "sourceProject": "servicecrewai-mobile",
+    "services": []
+  }
+]

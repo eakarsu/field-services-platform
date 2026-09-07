@@ -1,0 +1,1911 @@
+{
+  "mapped": [
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/routes",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "routes",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/supplies",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "supplies",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/inspections",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "inspections",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/crews",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "crews",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/workorders",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "workorders",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/timetracking",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "time",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/schedules",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "/checklists",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations/frontend/src/pages/Dashboard.js",
+      "canonical": "checklists",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "sourceKey": "ai-insights",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/job-quotes",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "job-quotes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/materials",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/code-compliance",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "code-compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/schedules",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/technicians",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "technicians",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/warranties",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "warranties",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/service-contracts",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "service-contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/permits",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "permits",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator/frontend/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "ai-material-estimate",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "material-estimate",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "ai-project-timeline",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "project-timeline",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "ai-code-compliance",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "code-compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "ai-quote-estimate",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "quote-estimate",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "ai-schedule-optimize",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "schedule-optimize",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "cf-ai-job-estimator",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "ai-job-estimator",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "cf-code-compliance-automation",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "code-compliance-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "cf-route-optimization",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "routes",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "cf-material-waste-prediction",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "material-waste-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "cf-technician-productivity-tracking",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "technician-productivity-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-aihistory-js-stub-needs-real-implementation",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "aihistory-js-stub-needs-real-implementation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-jobquotes-without-quote",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "jobquotes-without-quote",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-schedules-without-schedule",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "schedules-without-schedule",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-code-compliance-without-code",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "code-compliance-without-code",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-real-integration-with-permit-code-databases-onl",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "real-integration-with-permit-code-databases-onl",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-customer-financing-options-credit-payment-plans",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "customer-financing-options-credit-payment-plans",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-supply-chain-integration-material-ordering-auto",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "supply-chain-integration-material-ordering-auto",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-limited-photo-documentation-before-after",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "limited-photo-documentation-before-after",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-accounting-system-integration-quickbooks-freshb",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "accounting-system-integration-quickbooks-freshb",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-notifications-module-grep-0",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "notifications-module-grep-0",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "sourceKey": "gap-no-mobile-app-for-techs",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "canonical": "mobile-app-for-techs",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/services",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "services",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/properties",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "properties",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/quotes",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "quotes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/jobs",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/crews",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "crews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/chemicals",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "chemicals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/photos",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "photos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/service-plans",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "service-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/fleet",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "fleet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/safety",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "safety",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/insurance",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "insurance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/environmental",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "environmental",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/training",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "training",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/referrals",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "referrals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/bookings",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "bookings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/reviews",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "reviews",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/marketing",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "marketing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/locations",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "locations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/route-sheets",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "route-sheets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/time-tracking",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "time",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/quote-estimator",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "quote-estimator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/chemical-advisor",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "chemical-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/weather-scheduler",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "weather-scheduler",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/marketing-generator",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "marketing-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/upsell-advisor",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "upsell-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/quote-generator",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "quote-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/route-optimizer",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "route-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/weather-schedule",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "weather-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/jobs",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/equipment-maintenance-predict",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "equipment-maintenance-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "/ai/customer-churn-predict",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning/client/src/pages/Dashboard.js",
+      "canonical": "customer-churn-predict",
+      "kind": "definition"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "cf-agentic-job-orchestration",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "agentic-job-orchestration",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "cf-computer-vision-job-estimation",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "computer-vision-job-estimation",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "cf-crew-mobile-companion",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "crew-mobile-companion",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "cf-seasonal-demand-forecasting",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "seasonal-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "cf-customer-lifecycle-optimization",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "customer-lifecycle-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-equipment-without-equipment",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "equipment-without-equipment",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-crews-without-crew",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "crews-without-crew",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-customers-without-customer",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "customers-without-customer",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-contracts-without-contract",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "contracts-without-contract",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-limited-mobile-app-for-crew-1-mobile-reference-no-",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "limited-mobile-app-for-crew-1-mobile-reference-no",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-no-real",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "real",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-no-integration-with-payment-processing-square-stri",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "integration-with-payment-processing-square-stri",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-limited-customer-self",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "limited-customer-self",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-no-integration-with-accounting-quickbooks-freshboo",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "integration-with-accounting-quickbooks-freshboo",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-no-webhooks",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "sourceKey": "gap-frontend-severely-underbuilt-for-29",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "canonical": "frontend-severely-underbuilt-for-29",
+      "kind": "route"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/assistant",
+      "source": "/Volumes/external/projects/homeservices/src/app/dashboard/ai/page.tsx",
+      "canonical": "dashboard-assistant",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/ai/quote-generator",
+      "source": "/Volumes/external/projects/homeservices/src/app/dashboard/ai/page.tsx",
+      "canonical": "dashboard-ai-quote-generator",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/follow-ups",
+      "source": "/Volumes/external/projects/homeservices/src/app/dashboard/ai/page.tsx",
+      "canonical": "dashboard-follow-ups",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/operations",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-operations",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/customers",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/follow-ups",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-follow-ups",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/jobs",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/dispatch",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-dispatch",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/schedule",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-schedule",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/estimates",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-estimates",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/billing",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/finance",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-finance",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/invoices",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/inventory",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/agreements",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-agreements",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/technicians",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-technicians",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/reports",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/ai",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/settings",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-settings",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/dashboard/operations/timesheets",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "time",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/tech",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "tech",
+      "kind": "definition"
+    },
+    {
+      "project": "homeservices",
+      "sourceKey": "/tech/inventory",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "canonical": "tech-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Customer",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "clients",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Address",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "address",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "PaymentMethod",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "payment-method",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Order",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "order",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "OrderItem",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "order-item",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "GarmentType",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "garment-type",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Service",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "service",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Driver",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "driver",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Route",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "route",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Pickup",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "pickup",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Locker",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "locker",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ServicePrice",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "service-price",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Alteration",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "alteration",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "AlterationType",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "alteration-type",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Subscription",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "subscription",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "SubscriptionPlan",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "subscription-plan",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Coupon",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "coupon",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "GiftCard",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "gift-card",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Machine",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "machine",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Location",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "location",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "MachineUsage",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "machine-usage",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Maintenance",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "maintenance",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Payment",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "payment",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Receipt",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "receipt",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Staff",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "staff",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "Notification",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "notification",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "AIEstimate",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "aiestimate",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "AIStainAnalysis",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "aistain-analysis",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "AIChatHistory",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "aichat-history",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "AIDemandPrediction",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "aidemand-prediction",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "QualityIssue",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "quality-issue",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "DriverLocation",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "driver-location",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "OrderTracking",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "order-tracking",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "AIResult",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "airesult",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "GarmentLifecycleEvent",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "garment-lifecycle-event",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "WhatsAppConversation",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "whats-app-conversation",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ChurnScore",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "churn-score",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimTemplate",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-template",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "DamageClaim",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "damage-claim",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimAccess",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-access",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimDocument",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-document",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimDocumentVersion",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-document-version",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimReview",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-review",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimSignature",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-signature",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimAuditEvent",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-audit-event",
+      "kind": "schema"
+    },
+    {
+      "project": "laundryServices",
+      "sourceKey": "ClaimExport",
+      "source": "/Volumes/external/projects/laundryServices",
+      "canonical": "claim-export",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Category",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "category",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Business",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "business",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "BusinessPhoto",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "business-photo",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "BusinessVideo",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "business-video",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "BusinessHours",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "business-hours",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ServiceArea",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "service-area",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Service",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "service",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Review",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "review",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ReviewPhoto",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "review-photo",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ReviewResponse",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "review-response",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Booking",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "booking",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "QuoteRequest",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "quote-request",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Quote",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "quote",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Favorite",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "favorite",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Message",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "message",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Notification",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "notification",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Lead",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "lead",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "BusinessAnalytics",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "business-analytics",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Advertisement",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "advertisement",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ChatSession",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "chat-session",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "EmailVerificationToken",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "email-verification-token",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Skill",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "skill",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Technician",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "technician",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "AvailabilityWindow",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "availability-window",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "WorkOrder",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "work-order",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "DispatchAssignment",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "dispatch-assignment",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "JobEvent",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "job-event",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ChangeOrder",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "change-order",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Invoice",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "billing",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Payment",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "payment",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "Refund",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "refund",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "InventoryItem",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "inventory-item",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "InventoryReservation",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "inventory-reservation",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "CustomerCommunication",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "customer-communication",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "OfflineCommand",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "offline-command",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ProviderConnection",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "provider-connection",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "WebhookEvent",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "webhook-event",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "OutboxEvent",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "outbox-event",
+      "kind": "schema"
+    },
+    {
+      "project": "localServiceDirectory",
+      "sourceKey": "ExternalOperation",
+      "source": "/Volumes/external/projects/localServiceDirectory",
+      "canonical": "external-operation",
+      "kind": "schema"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "legal-documents",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "legal-documents",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "leads",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "leads",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "quotes",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "quotes",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "jobs",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "dashboard-jobs",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "crew",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "crew",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "trucks",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "trucks",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "equipment",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "equipment",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "storage",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "storage",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "invoices",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "billing",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "claims",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "claims",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "elevator-reservation-window",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "elevator-reservation-window",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/cf-real-time-gps-customer-eta-notifications",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-cf-real-time-gps-customer-eta-notifications",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/cf-vision-based-damage-assessment-claim-photos",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-cf-vision-based-damage-assessment-claim-photos",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/cf-customer-portal-with-ar-pre-move",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-cf-customer-portal-with-ar-pre-move",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/cf-market-rate-pricing-engine-weather-fuel",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-cf-market-rate-pricing-engine-weather-fuel",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/cf-insurance-partner-integrations-auto-issue-coi",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-cf-insurance-partner-integrations-auto-issue-coi",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/cf-referral-upsell-agent-packing-supplies-cleaning",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-cf-referral-upsell-agent-packing-supplies-cleaning",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-vision-based-damage-assessment-from",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-vision-based-damage-assessment-from",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-pre-move-questionnaire-deep-analysis",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-pre-move-questionnaire-deep-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-market-rate-pricing-optimizer",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-market-rate-pricing-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-predictive-demand-pre-positioning-of",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-predictive-demand-pre-positioning-of",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-customer-sentiment-dashboard-across-surveys",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-customer-sentiment-dashboard-across-surveys",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-real-time-gps-tracking-for",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-real-time-gps-tracking-for",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-customer-portal-move-tracker",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-customer-portal-move-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-insurance-liability-policy-management",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-insurance-liability-policy-management",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-payment-processing-module-stripe-ach",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-payment-processing-module-stripe-ach",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-webhooks-for-partners-storage-packing",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-webhooks-for-partners-storage-packing",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-multi-vendor-logistics-marketplace",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-multi-vendor-logistics-marketplace",
+      "kind": "route"
+    },
+    {
+      "project": "movingCompany",
+      "sourceKey": "batch10/gap-no-ar-pre-move-visualization",
+      "source": "/Volumes/external/projects/movingCompany",
+      "canonical": "batch10-gap-no-ar-pre-move-visualization",
+      "kind": "route"
+    },
+    {
+      "project": "pestControl",
+      "sourceKey": "evidence",
+      "source": "/Volumes/external/projects/pestControl",
+      "canonical": "evidence",
+      "kind": "route"
+    },
+    {
+      "project": "servicecrewai-mobile",
+      "sourceKey": "servicecrewai-mobile",
+      "source": "/Volumes/external/projects/servicecrewai-mobile",
+      "canonical": "servicecrewai-mobile",
+      "kind": "source-workflow"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "login",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICommercialCleaningOperations",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialCleaningOperations",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPlumbingElectricalHVACEstimator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "/jobs/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIPressureWashingExteriorCleaning",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "homeservices",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/homeservices/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "laundryServices",
+      "key": "Delivery",
+      "source": "/Volumes/external/projects/laundryServices",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "movingCompany",
+      "key": "login",
+      "source": "/Volumes/external/projects/movingCompany",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "movingCompany",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "movingCompany",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "movingCompany",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/movingCompany",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "movingCompany",
+      "key": "settings",
+      "source": "/Volumes/external/projects/movingCompany",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "movingCompany",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/movingCompany",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pestControl",
+      "key": "login",
+      "source": "/Volumes/external/projects/pestControl",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "pestControl",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "project": "servicecrewai-mobile",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

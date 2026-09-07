@@ -1,0 +1,33 @@
+{
+  "id": "field-services-platform",
+  "title": "Home & field services",
+  "buyer": "Trade, cleaning and field-service businesses",
+  "sourceCount": 9,
+  "sources": [
+    "AICommercialCleaningOperations",
+    "AIPlumbingElectricalHVACEstimator",
+    "AIPressureWashingExteriorCleaning",
+    "homeservices",
+    "laundryServices",
+    "localServiceDirectory",
+    "movingCompany",
+    "pestControl",
+    "servicecrewai-mobile"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46027,
+  "productName": "Home Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AICommercialCleaningOperations",
+    "/Volumes/external/projects/AIPlumbingElectricalHVACEstimator",
+    "/Volumes/external/projects/AIPressureWashingExteriorCleaning",
+    "/Volumes/external/projects/homeservices",
+    "/Volumes/external/projects/laundryServices",
+    "/Volumes/external/projects/localServiceDirectory",
+    "/Volumes/external/projects/movingCompany",
+    "/Volumes/external/projects/pestControl",
+    "/Volumes/external/projects/servicecrewai-mobile"
+  ]
+}

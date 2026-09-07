@@ -1,0 +1,9 @@
+{
+  "app": "field-services-platform",
+  "features": 224,
+  "sourceApps": 9,
+  "calculatorEngines": 0,
+  "registryHash": "28c30795e9ae3bc14c73ca78badf00186b9474e165aa8fe0e53498ac35e70536",
+  "builtAt": "2026-09-07T22:05:44.894Z",
+  "status": "built"
+}
